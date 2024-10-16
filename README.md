@@ -12,7 +12,7 @@ EcoCabins is a website dedicated to providing sustainable tiny houses, designed 
 ## How to run the application(basic steps):
 
 ### Basic steps:
-1. Clone the repository. Source to repo "github.com/camp3rm/ecoCabins"
+1. Clone the repository. Source to repo `github.com/camp3rm/ecoCabins`
 2. Instalation of node_modules( yarn or npm ):
     - install Node.js from official store
     - Download yarn  using npm -> "npm install -g yarn"
